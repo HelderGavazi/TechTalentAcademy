@@ -1,7 +1,7 @@
-#TTAJDavis
-#17/01/22
-#UserInputsAge
+#Helder
+#12/09/22
+#userInputsAge
 
-name=input("What is your name? ")
-age = int(input ("What is your age? "))
-print ("Hello ", name, "You will be,",age+1,"next year")
+name = input("What is your name? ")
+age = int(input("What is your age? "))
+print("Hello ", name, "You will be", age + 1, "next year")
